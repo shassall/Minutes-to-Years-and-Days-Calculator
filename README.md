@@ -1,4 +1,4 @@
-# Minutes-to-Years-and-Days-Calculator
+# Minutes-to-Years-and-Days-Calculator-Exercise
 Calculation Exercise from Java Programming Masterclass by Udemy
 
 
